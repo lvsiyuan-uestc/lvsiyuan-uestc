@@ -6,9 +6,7 @@ I am currently working on research in **Computer Vision** and **Artificial Intel
 
 My research interests include
 
-- Generalizable Deepfake Detection
 - Vision-Language Models
-- Large Language Models
 - AI Reasoning
 - AI Agents
 
@@ -16,7 +14,7 @@ I enjoy building reliable and generalizable AI systems, especially those capable
 
 ### Selected Topics
 
-- Frequency-aware Representation Learning
+- Representation Learning
 - Cross-domain Generalization
 - Vision Foundation Models
 - AI-assisted Scientific Research
